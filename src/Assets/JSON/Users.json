@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Alpha",
+    "job": "Leader",
+    "id": "1"
+   
+},
+{
+    "name": "Beta",
+    "job": "Snipper",
+    "id": "2"
+   
+},
+{
+    "name": "Omega",
+    "job": "Loader",
+    "id": "3"
+   
+},
+{
+    "name": "Mogli",
+    "job": "Dreamer",
+    "id": "4"
+   
+}
+]
